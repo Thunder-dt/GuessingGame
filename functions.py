@@ -6,4 +6,3 @@ def rangeCheck( minx , maxx , x ):
         y = True
     return y
 
-
